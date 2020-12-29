@@ -20,7 +20,7 @@
 
 # Project information
 site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
+site_url: https://kubeconlive.github.io/mkdocs-material-2/
 site_author: Martin Donath
 site_description: >-
   Create a branded static site from a set of Markdown files to host the
@@ -28,8 +28,8 @@ site_description: >-
   searchable, mobile-friendly, 40+ languages
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: kubeconlive/mkdocs-material-2
+repo_url: https://github.com/kubeconlive/mkdocs-material-2
 edit_uri: ""
 
 # Copyright
